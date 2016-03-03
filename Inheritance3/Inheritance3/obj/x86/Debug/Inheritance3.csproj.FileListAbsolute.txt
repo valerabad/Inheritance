@@ -1,0 +1,9 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Inheritance3\bin\Debug\Inheritance3.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Inheritance3\bin\Debug\Inheritance3.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Inheritance3\obj\x86\Debug\Inheritance3.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Inheritance3\obj\x86\Debug\Inheritance3.pdb
+C:\Users\HP\Desktop\Course\Inheritance3\Inheritance3\obj\x86\Debug\Inheritance3.exe
+C:\Users\HP\Desktop\Course\Inheritance3\Inheritance3\obj\x86\Debug\Inheritance3.pdb
+C:\Users\HP\Desktop\Course\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe
+C:\Users\HP\Desktop\Course\Inheritance3\Inheritance3\bin\Debug\Inheritance3.pdb
+C:\Users\HP\Desktop\Course\Inheritance3\Inheritance3\obj\x86\Debug\Inheritance3.csprojResolveAssemblyReference.cache
